@@ -18,9 +18,8 @@
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1: Mrs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5: Rev&nbsp;&nbsp;&nbsp;&nbsp;9: Major&nbsp;&nbsp;&nbsp;&nbsp;13: Col  <br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2: Miss&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6: Dr&nbsp;&nbsp;&nbsp;&nbsp;10: Lady&nbsp;&nbsp;&nbsp;&nbsp;14: Capt  <br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3: Master&nbsp;&nbsp;&nbsp;&nbsp;7: Mme&nbsp;&nbsp;&nbsp;&nbsp;11: Sir&nbsp;&nbsp;&nbsp;&nbsp;15: the Countess<br>   
-   *Variables de salida (objetivo):*  <br>
-   
-      9. Survived: indica 0 si no sobrevivió y 1 al contrario.  <br>
+&nbsp;&nbsp;*Variables de salida (objetivo):*  <br>
+      &nbsp;&nbsp;&nbsp; 9. Survived: indica 0 si no sobrevivió y 1 al contrario.  <br>
 **5. Valores faltantes**  <br>
 Nuestra base de datos no cuenta con valores faltantes, anteriormente se hizo una limpieza donde se seleccionaron atributos, rellenaron datos faltantes, se transformaron ciertos atributos y agregaron nuevas características. Este proceso se encuentra en este código  <br>
 
