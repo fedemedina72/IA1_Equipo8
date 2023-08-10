@@ -20,10 +20,12 @@
           1: Mrs	5: Rev      9: Major     13: Col  <br>
           2: Miss	6: Dr       10: Lady     14: Capt  <br>
           3: Master	7: Mme      11: Sir      15: the Countess<br>   </li>
-   <ol>
-
+   </ol>
    *Variables de salida (objetivo):*  <br>
+   <ol>
+   
       9. Survived: indica 0 si no sobrevivió y 1 al contrario.  <br>
+  </ol>
           
 **5. Valores faltantes**  <br>
 Nuestra base de datos no cuenta con valores faltantes, anteriormente se hizo una limpieza donde se seleccionaron atributos, rellenaron datos faltantes, se transformaron ciertos atributos y agregaron nuevas características. Este proceso se encuentra en este código  <br>
