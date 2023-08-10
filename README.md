@@ -7,7 +7,7 @@
    
 **4. Información de los atributos**
    *Variables de entrada:*
-      1. Class (categórica): representa si lxs pasajerxs estuvieron en 1ra, 2da o 3ra clase.\\
+      1. Class (categórica): representa si lxs pasajerxs estuvieron en 1ra, 2da o 3ra clase.\n
       2. Sex (categórico): donde 0 es masculino y 1 femenino.
       3. Age (numérica): edad de lxs pasajerxs, en el caso que tuviera menos de 1 año, los meses se representan en decimal.
       4. SibSp (numérica): cantidad de hermanxs, esposo y esposa que lxs pasajerxs contaban a bordo.
