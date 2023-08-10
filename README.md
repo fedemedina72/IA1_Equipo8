@@ -6,21 +6,30 @@
 **3. Número de atributos:** 8 + atributo de salida.
    
 **4. Información de los atributos**   <br>
-   *Variables de entrada:*<br>
+   *Variables de entrada:*
    <ol>
   	<li>Class (categórica): representa si lxs pasajerxs estuvieron en 1ra, 2da o 3ra clase. </li>
-      2. Sex (categórico): donde 0 es masculino y 1 femenino.  <br>
-      3. Age (numérica): edad de lxs pasajerxs, en el caso que tuviera menos de 1 año, los meses se representan en decimal.  <br>
-      4. SibSp (numérica): cantidad de hermanxs, esposo y esposa que lxs pasajerxs contaban a bordo.  <br>
-      5. Parch (numérica): cantidad de padres e hijxs que lxs pasajeros contaban a bordo.  <br>
-      6. Embarked (categórica): segmenta a lxs pasajerxs según el país desde el cual embarcaron al Titanic. El 0 representa Southampton, Reino Unido; el 1 a Cherbourg, Francia y el 2 a Queenstown, Irlanda.  <br>
-      7. Comp (numérica): suma de las variables SubSp y Parch, que representa el total de compañía que contaban lxs pasajerxs.  <br>
-      8. Title: indica el título que representa un estatus social con la siguiente codificación:  <br>
+	<li> Sex (categórico): donde 0 es masculino y 1 femenino.</li>
+	<li> Age (numérica): edad de lxs pasajerxs, en el caso que tuviera menos de 1 año, los meses se representan en decimal. </li>
+	<li> SibSp (numérica): cantidad de hermanxs, esposo y esposa que lxs pasajerxs contaban a bordo. </li>
+	<li> Parch (numérica): cantidad de padres e hijxs que lxs pasajeros contaban a bordo. </li>
+	<li> Embarked (categórica): segmenta a lxs pasajerxs según el país desde el cual embarcaron al Titanic. El 0 representa Southampton, Reino Unido; el 1 a Cherbourg, Francia y el 2 a Queenstown, Irlanda. </li>
+	<li> Comp (numérica): suma de las variables SubSp y Parch, que representa el total de compañía que contaban lxs pasajerxs. </li>
+	<li> Title: indica el título que representa un estatus social con la siguiente codificación: </li>
+
+      7.  <br>
+      8.  <br>
           0: Mr		4: Don      8: Ms        12: Mlle            16: Jonkheer  <br>
           1: Mrs	5: Rev      9: Major     13: Col  <br>
           2: Miss	6: Dr       10: Lady     14: Capt  <br>
           3: Master	7: Mme      11: Sir      15: the Countess<br>  
    <ol>
+   |           |        |          |                  |
+|-----------|--------|----------|------------------|
+| 0: Mr     | 4: Don | 8: Ms    | 12: Mlle         |
+| 1:Mrs     | 5: Rev | 9: Major | 13: Col          |
+| 2: Miss   | 6: Dr  | 10: Lady | 14: Capt         |
+| 3: Master | 7: Mme | 11: Sir  | 15: the Countess |
          		
    *Variables de salida (objetivo):*  <br>
       9. Survived: indica 0 si no sobrevivió y 1 al contrario.  <br>
