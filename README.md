@@ -1,4 +1,3 @@
-![image](https://github.com/fedemedina72/IA1_Equipo8/assets/103207538/f8798dd5-945c-4ff3-9e59-784c5ef92855)# IA1_Equipo8
 **1. Título:** Base de datos del Titanic
    
 **2. Número de instancias:** 889 para el archivo Train_limpia.csv
