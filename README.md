@@ -5,7 +5,7 @@
    
 **3. Número de atributos:** 8 + atributo de salida.
    
-**4. Información de los atributos** <br>
+**4. Información de los atributos**   <br>
    *Variables de entrada:*<br>
    <ol>
   	<li>First item</li>
