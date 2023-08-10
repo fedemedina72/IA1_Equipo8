@@ -37,7 +37,7 @@
       &nbsp;&nbsp;&nbsp; 9. Survived: indica 0 si no sobrevivió y 1 al contrario.  <br>
 
 **5. Valores faltantes**  <br>
-Nuestra base de datos no cuenta con valores faltantes, anteriormente se hizo una limpieza donde se seleccionaron atributos, rellenaron datos faltantes, se transformaron ciertos atributos y agregaron nuevas características. Dicho proceso se encuentra en [este código], junto con su justificación.(Datos/LimpiezaDatos.ipynb)  <br>
+Nuestra base de datos no cuenta con valores faltantes, anteriormente se hizo una limpieza donde se seleccionaron atributos, rellenaron datos faltantes, se transformaron ciertos atributos y agregaron nuevas características. Dicho proceso se encuentra en [este código](Datos/LimpiezaDatos.ipynb), junto con su justificación. <br>
 
 **6. Distribución de clase**  
 62% para no supervivencia y 38% de supervivencia
