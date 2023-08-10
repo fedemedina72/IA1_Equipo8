@@ -38,13 +38,6 @@
 **5. Valores faltantes**  <br>
 Nuestra base de datos no cuenta con valores faltantes, anteriormente se hizo una limpieza donde se seleccionaron atributos, rellenaron datos faltantes, se transformaron ciertos atributos y agregaron nuevas características. Este proceso se encuentra en este código  <br>
 
-**6. Resumen estadístico**  <br>
-		*Min      Max     Mean 	  STD*  <br>
-Age		0.42	  80      29.40	  13.52   <br>
-SibSp		0	  8	  0.52	  1.10  <br>
-Parch		0	  6	  0.38	  0.80  <br>
-Comp		0	  10      0.90	  1.61  <br>
-
-**7. Distribución de clase**  
+**6. Distribución de clase**  
 62% para no supervivencia y 38% de supervivencia
 
