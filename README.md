@@ -16,9 +16,9 @@
 	7. Comp (numérica): suma de las variables SubSp y Parch, que representa el total de compañía que contaban lxs pasajerxs. <br>
 	8. Title: indica el título que representa un estatus social con la siguiente codificación: <br>
           0: Mr&nbsp;&nbsp;4: Don&nbsp;&nbsp;8: Ms&nbsp;&nbsp;12: Mlle&nbsp;&nbsp;6: Jonkheer  <br>
-          1: Mrs	5: Rev      9: Major     13: Col  <br>
-          2: Miss	6: Dr       10: Lady     14: Capt  <br>
-          3: Master	7: Mme      11: Sir      15: the Countess<br>   
+          1: Mrs&nbsp;&nbsp;5: Rev&nbsp;&nbsp;9: Major&nbsp;&nbsp;13: Col  <br>
+          2: Miss&nbsp;&nbsp;6: Dr&nbsp;&nbsp;10: Lady&nbsp;&nbsp;14: Capt  <br>
+          3: Master&nbsp;&nbsp;7: Mme&nbsp;&nbsp;11: Sir&nbsp;&nbsp;15: the Countess<br>   
    *Variables de salida (objetivo):*  <br>
    
       9. Survived: indica 0 si no sobrevivió y 1 al contrario.  <br>
