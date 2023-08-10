@@ -5,7 +5,7 @@
 **3. Número de atributos:** 8 + atributo de salida.
    
 **4. Información de los atributos**   <br>
-&nbsp;&nbsp;*Variables de entrada:*
+&nbsp;&nbsp;*Variables de entrada:*<br>
   	&nbsp;&nbsp;&nbsp;1. Class (categórica): representa si lxs pasajerxs estuvieron en 1ra, 2da o 3ra clase. <br>
 	&nbsp;&nbsp;&nbsp;2.  Sex (categórico): donde 0 es masculino y 1 femenino.<br>
 	&nbsp;&nbsp;&nbsp;3. Age (numérica): edad de lxs pasajerxs, en el caso que tuviera menos de 1 año, los meses se representan en decimal. <br>
