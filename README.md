@@ -1,3 +1,4 @@
+# Titanic - Equipo 8
 **1. Título:** Base de datos del Titanic
    
 **2. Número de instancias:** 889 para el archivo Train_limpia.csv
