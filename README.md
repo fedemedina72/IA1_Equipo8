@@ -26,6 +26,10 @@
    
       9. Survived: indica 0 si no sobrevivió y 1 al contrario.  <br>
   </ol>
+  | First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
           
 **5. Valores faltantes**  <br>
 Nuestra base de datos no cuenta con valores faltantes, anteriormente se hizo una limpieza donde se seleccionaron atributos, rellenaron datos faltantes, se transformaron ciertos atributos y agregaron nuevas características. Este proceso se encuentra en este código  <br>
