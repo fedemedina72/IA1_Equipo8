@@ -15,10 +15,10 @@
 	6. Embarked (categórica): segmenta a lxs pasajerxs según el país desde el cual embarcaron al Titanic. El 0 representa Southampton, Reino Unido; el 1 a Cherbourg, Francia y el 2 a Queenstown, Irlanda. <br>
 	7. Comp (numérica): suma de las variables SubSp y Parch, que representa el total de compañía que contaban lxs pasajerxs. <br>
 	8. Title: indica el título que representa un estatus social con la siguiente codificación: <br>
-          &nbsp;&nbsp;0: Mr&nbsp;&nbsp;&nbsp;&nbsp;4: Don&nbsp;&nbsp;8: Ms&nbsp;&nbsp;12: Mlle&nbsp;&nbsp;6: Jonkheer  <br>
-          &nbsp;&nbsp;1: Mrs&nbsp;&nbsp;&nbsp;&nbsp;5: Rev&nbsp;&nbsp;9: Major&nbsp;&nbsp;13: Col  <br>
-          &nbsp;&nbsp;2: Miss&nbsp;&nbsp;&nbsp;&nbsp;6: Dr&nbsp;&nbsp;10: Lady&nbsp;&nbsp;14: Capt  <br>
-          &nbsp;&nbsp;3: Master&nbsp;&nbsp;&nbsp;&nbsp;7: Mme&nbsp;&nbsp;11: Sir&nbsp;&nbsp;15: the Countess<br>   
+          &nbsp;&nbsp;&nbsp;0: Mr&nbsp;&nbsp;&nbsp;&nbsp;4: Don&nbsp;&nbsp;&nbsp;&nbsp;8: Ms&nbsp;&nbsp;&nbsp;&nbsp;12: Mlle&nbsp;&nbsp;&nbsp;&nbsp;16: Jonkheer  <br>
+          &nbsp;&nbsp;&nbsp;1: Mrs&nbsp;&nbsp;&nbsp;&nbsp;5: Rev&nbsp;&nbsp;&nbsp;&nbsp;9: Major&nbsp;&nbsp;&nbsp;&nbsp;13: Col  <br>
+          &nbsp;&nbsp;&nbsp;2: Miss&nbsp;&nbsp;&nbsp;&nbsp;6: Dr&nbsp;&nbsp;&nbsp;&nbsp;10: Lady&nbsp;&nbsp;&nbsp;&nbsp;14: Capt  <br>
+          &nbsp;&nbsp;&nbsp;3: Master&nbsp;&nbsp;&nbsp;&nbsp;7: Mme&nbsp;&nbsp;&nbsp;&nbsp;11: Sir&nbsp;&nbsp;&nbsp;&nbsp;15: the Countess<br>   
    *Variables de salida (objetivo):*  <br>
    
       9. Survived: indica 0 si no sobrevivió y 1 al contrario.  <br>
