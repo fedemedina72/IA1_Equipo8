@@ -15,7 +15,6 @@
 	&nbsp;&nbsp;&nbsp;7. Comp (numérica): suma de las variables SubSp y Parch, que representa el total de compañía que contaban lxs pasajerxs. <br>
 	&nbsp;&nbsp;&nbsp;8. Title: indica el título que representa un estatus social con la siguiente codificación: <br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0: Mr<br>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0: Mr<br>
 	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1: Mrs<br>
    	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2: Miss<br>
    	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3: Master<br>
