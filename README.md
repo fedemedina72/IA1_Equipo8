@@ -42,3 +42,5 @@ Nuestra base de datos no cuenta con valores faltantes, anteriormente se hizo una
 **6. Distribución de clase**  
 62% para no supervivencia y 38% de supervivencia
 
+**7. Documentación**
+En la carpeta [Datos](Datos) se encuentra el código [LimpiezaDatos.ipynb](Datos/LimpiezaDatos.ipynb) utilizado para la limpieza de datos, los sets originales de entrenamiento y prueba ([train.csv](Datos/train.csv) y [test.csv](Datos/test.csv) respectivamente) y la base de datos final [Train_limpia.csv](Datos/Train_limpia.csv) que usaremos en un posterior análisis. 
