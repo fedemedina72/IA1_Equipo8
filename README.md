@@ -1,5 +1,10 @@
 # Titanic - Equipo 8
-**1. Título:** Base de datos del Titanic
+Federico Medina García Corral
+Michelle Yareni Morales Ramón
+Paola Sofia Reyes Mancheno
+María Fernanda Torres Alcubilla
+
+**1. Título:** [Base de datos del Titanic](Datos/Train_limpia.csv)
    
 **2. Número de instancias:** 889 para el archivo Train_limpia.csv
    
@@ -42,3 +47,9 @@ Nuestra base de datos no cuenta con valores faltantes, anteriormente se hizo una
 **6. Distribución de clase**  
 62% para no supervivencia y 38% de supervivencia
 
+**7. Documentación**
+
+En la carpeta [Datos](Datos) se encuentra el código [LimpiezaDatos.ipynb](Datos/LimpiezaDatos.ipynb) utilizado para la limpieza de datos, los sets originales de entrenamiento y prueba ([train.csv](Datos/train.csv) y [test.csv](Datos/test.csv) respectivamente) y la base de datos final [Train_limpia.csv](Datos/Train_limpia.csv), de la cual se hará uso en un análisis posterior.
+
+
+En la carpeta FALTA se encuentra el código [FALTA pd. cambiar link](Datos/LimpiezaDatos.ipynb) donde se realizó la implementación de 4 modelos de clasificicación, los cuales son: *Light Gradient Boosting Machine, Extreme Gradient Boosting, Gradient Boosting Classifier y Random Forest Classifier*, se experimentaron distintos valores para sus hiperparámetros y se escogieron los que mejoraban los valores de las métricas de aprendizaje, como el accuracy, precision, recall y F1 score. Además, se realizaron visualizaciones para estas métricas dependiendo de los valores escogidos y de los modelos finales se pueden observar matrices de confusión. 
