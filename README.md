@@ -9,7 +9,7 @@ María Fernanda Torres Alcubilla
 
 **1. Título:** [Base de datos del Titanic](Datos/Train_limpia.csv) obtenida de [Kaggle](https://www.kaggle.com/competitions/titanic/submissions)
    
-**2. Número de instancias:** 889 para el archivo Train_limpia.csv
+**2. Número de instancias:** 889 para el archivo [Train_limpia.csv](Datos/train.csv)
    
 **3. Número de atributos:** 8 + atributo de salida.
    
