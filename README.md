@@ -1,7 +1,10 @@
 # Titanic - Equipo 8
 Federico Medina García Corral
+
 Michelle Yareni Morales Ramón
+
 Paola Sofia Reyes Mancheno
+
 María Fernanda Torres Alcubilla
 
 **1. Título:** [Base de datos del Titanic](Datos/Train_limpia.csv)
