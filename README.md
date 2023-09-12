@@ -59,9 +59,10 @@ En la carpeta [Modelos](Modelos) se encuentra el código [Modelos.ipynb](Modelos
 
 En esta carpeta, también se encuentran los archivos [**Modelo_App**](https://github.com/fedemedina72/IA1_Equipo8/blob/main/Modelos/Modelo_App.ipynb) y [**Titanic_predict.aia**](https://github.com/fedemedina72/IA1_Equipo8/blob/main/Modelos/Titanic_predict2.aia), los cuales se utilizaron en conjunto para crear la interfaz de usuario para y así interactuar con el modelo. El primero se utiliza para exportar los datos y el modelo a una base de datos No-SQL y posteriormente conectarse con la interfaz creada en el MIT APP Creator, es decir, el segundo archivo enlistado. 
 
-La enlistación de los cambios implementados es la siguiente:
+Los cambios implementados son los siguientes:
 - Descripción de las métricas de desempeño.
 - Inclusión de interpretación de resultados.
 - Consideración del set de validación en la separación de los datos.
 - Creación de tabla de métricas de desempeño para distintos sets.
-- Correción del README. 
+- Corrección del README.
+- Corrección e incorporación de secciones al reporte. 
